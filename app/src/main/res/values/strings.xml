@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+
+    <string name="hint">Masukkan Angka</string>
+
+    <string name="operation">Rotate untuk lebih banyak fitur dan operasi</string>
+
+    <string name="satuText">1</string>
+    <string name="duaText">2</string>
+    <string name="tigaText">3</string>
+    <string name="empatText">4</string>
+    <string name="limaText">5</string>
+    <string name="enamText">6</string>
+    <string name="tujuhText">7</string>
+    <string name="delapanText">8</string>
+    <string name="sembilanText">9</string>
+    <string name="nolText">0</string>
+
+    <string name="bersihkanText">AC</string>
+    <string name="bukaKurungText">(</string>
+    <string name="tutupKurungText">)</string>
+    <string name="bagiText">÷</string>
+    <string name="kaliText">×</string>
+    <string name="tambahText">+</string>
+    <string name="kurangText">-</string>
+    <string name="komaText">.</string>
+    <string name="samaDenganText">=</string>
+
+    <string name="sinusText">sin</string>
+    <string name="cosinusText">cos</string>
+    <string name="tangenText">tan</string>
+    <string name="arcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="arcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="arcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="naturalLogText">ln</string>
+    <string name="LogText">log</string>
+    <string name="akarPangkat2Text">√</string>
+    <string name="nilaiMutlakText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="xPangkatDuaText">x<sup><small>2</small></sup></string>
+    <string name="xPangkatYText">x<sup><small>y</small></sup></string>
+    <string name="bilanganPrimaText">prime</string>
+
+    <string name="delete">del</string>
+</resources>
